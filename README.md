@@ -4,11 +4,11 @@
 
 This is a template repo meant to be used with the rails-api-single-resource repo.
 
-## [Rails API Single-Resource Repo README](https://github.com/ga-wdi-boston/rails-api-single-resource/tree/015/master#rails-api-code-along-clinic-app)
+### [Rails API Single-Resource Repo README](https://github.com/ga-wdi-boston/rails-api-single-resource/tree/015/master#rails-api-code-along-clinic-app)
 
-## [Rails API One-To-Many Repo README](https://github.com/ga-wdi-boston/rails-api-one-to-many/blob/master/README.md)
+### [Rails API One-To-Many Repo README](https://github.com/ga-wdi-boston/rails-api-one-to-many/blob/master/README.md)
 
-## [Rails API Many-To-Many Repo README](https://github.com/ga-wdi-boston/rails-api-many-to-many/blob/master/README.md)
+### [Rails API Many-To-Many Repo README](https://github.com/ga-wdi-boston/rails-api-many-to-many/blob/master/README.md)
 
 ## [License](LICENSE)
 
