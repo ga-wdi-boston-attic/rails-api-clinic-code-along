@@ -8,9 +8,11 @@ Rails.application.routes.draw do
 
   # Patient routes
   get '/patients', to: 'patients#index'
-  post '/patients', to: 'patients#create'
-
   get '/patients/:id', to: 'patients#show'
+  post '/patients', to: 'patients#create'
   patch '/patients/:id', to: 'patients#update'
   delete '/patients/:id', to: 'patients#destroy'
+
+  # get '/doctors', to: 'doctors#index'
+  resources :doctors, except: [:new, :edit]
 end
