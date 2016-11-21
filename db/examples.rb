@@ -65,5 +65,4 @@ Patient.create([
                    doctor_id: 4 }
                ])
 
-Patient.create({ name: 'Jacob Hereford',
-                 sickness: 'Too Texan'))
+Patient.create(name: 'Jacob Hereford', sickness: 'Too Texan')
